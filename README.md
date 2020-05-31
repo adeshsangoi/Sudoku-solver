@@ -12,6 +12,8 @@ We will use backtracking if the number given to any node exceeds 9
 
 How to Run the code:
   python3 sudoku_solver.py
+  
   Mention number of entries given in table 
+  
   Mention an entry as row_num column_num value ( Sample inputs are given in file input 17 and input 21)
 
